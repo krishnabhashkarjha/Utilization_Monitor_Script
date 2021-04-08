@@ -3,13 +3,10 @@
 @ Creation date - 25/03/2020
 @ Description - Declares all the xpaths, username and password .
 """
-# All URL's
-TogglURL = 'https://toggl.com/login/'
 
 
 # Credentials
-Username = "scroy@spscommerce.com"
-Password = "Doremon@2019"
+
 
 # Xpaths
 Login_Username_Xpath_Click = "//input[@type='email' and @name = 'email-address' and @id ='login-email']"
